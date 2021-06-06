@@ -1,5 +1,5 @@
 The following third-party software is used by and included in **mongosh**.
-This document was automatically generated on Sun May 30 2021.
+This document was automatically generated on Sun Jun 06 2021.
 
 ## List of dependencies
 
@@ -6420,7 +6420,7 @@ Authors:
 * Bruno Dias <[bruno.r.dias@gmail.com](nomail)>
 * Jay Strybis <[jay.strybis@gmail.com](nomail)>
 * Guillaume Gomez <[guillaume1.gomez@gmail.com](nomail)>
-* Janis Voigtländer <[janis.voigtlaender@gmail.com](nomail)>
+* Janis Voigtl��nder <[janis.voigtlaender@gmail.com](nomail)>
 * Dirk Kirsten <[dk@basex.org](nomail)>
 * MY Sun <[simonmysun@gmail.com](nomail)>
 * Vadimtro <[vadimtro@yahoo.com](nomail)>
